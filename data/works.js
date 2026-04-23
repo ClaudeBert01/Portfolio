@@ -211,5 +211,5 @@ window.PORTFOLIO_WORKS = [
 // Contact
 window.PORTFOLIO_CONTACT = {
   email: "hello@example.com",
-  linkedin: "https://www.linkedin.com/",
+  linkedin: "www.linkedin.com/in/eugenelok",
 };

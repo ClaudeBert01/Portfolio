@@ -90,7 +90,6 @@ function Grid({ works, onOpen, showDivider }) {
 function Footer({ contact }) {
   return (
     <footer className="site-footer" style={{ borderColor: "rgb(0, 0, 0)" }}>
-      <a href={"mailto:" + contact.email}>EMAIL</a>
       <a href={contact.linkedin} target="_blank" rel="noopener noreferrer">
         LINKEDIN
       </a>
