@@ -5,7 +5,10 @@
       "Read(//private/tmp/**)",
       "Bash(cp /Users/bigmacstudio/.claude/projects/-Users-bigmacstudio-Claude-Portfolio/7f0235d3-0110-4742-967e-8d2bb0b38357/tool-results/webfetch-1776974472886-r82a7a.bin design.tar.gz)",
       "Bash(tar -xzf design.tar.gz)",
-      "Bash(gunzip -c design.tar.gz)"
+      "Bash(gunzip -c design.tar.gz)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
     ]
   }
 }
